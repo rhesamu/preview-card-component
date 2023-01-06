@@ -1,10 +1,10 @@
-# Product preview card design
+# Product preview card component design
 
 ## Overview
-A product preview card example built using HTML & CSS. I've created this as part of Frontend Mentor's challenge that you can find [here](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).
+A product preview card component example built using HTML & CSS. I've created this as part of Frontend Mentor's challenge that you can find [here](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).
 
 You can visit the live site on
-https://rhesamu.github.io/product-preview-card
+https://rhesamu.github.io/preview-card-component
 
 The design of the card is responsive for both desktop and mobile screen sizes. Feel free to resize the window to see the changes.
 
@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution [Link](https://www.frontendmentor.io/solutions/product-preview-card-component-dVC-Np5kdZ)
-- Live Site [Link](https://rhesamu.github.io/product-preview-card)
+- Live Site [Link](https://rhesamu.github.io/preview-card-component)
 
 ## My process
 
