@@ -67,7 +67,7 @@ p, h1, h2, h3, h4, h5, h6 {
   isolation: isolate;
 }
 
-h1 {
+h1, h2 {
   font-family: 'Fraunces', serif;
   font-size: 2rem;
   font-weight: 700;
@@ -138,11 +138,19 @@ p {
   display: flex;
   align-items: center;
   justify-content: center;
+
   width: 100%;
   padding: 0.75rem;
   border-style: none;
   border-radius: 0.5rem;
   background-color: var(--color-cyan);
+
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  color: var(--color-white);
+
   transition: background-color 0.15s ease-in-out;
 }
 
@@ -153,11 +161,6 @@ p {
 
 .button-icon {
   margin-right: 0.75rem;
-}
-
-.button-text {
-  color: var(--color-white);
-  font-weight: 700;
 }
 
 @media (max-width: 667px) {
